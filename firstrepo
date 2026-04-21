@@ -1,0 +1,5 @@
+SP_helpdb
+
+sp_configure
+
+sp_help_revlogins
